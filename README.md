@@ -74,7 +74,7 @@ Sou um desenvolvedor apaixonado por criar soluções web seguras e eficientes. A
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- Adicione o link para o seu portfólio do Figma aqui quando estiver pronto! -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-00C853?style=for-the-badge&logo=figma&logoColor=white" alt="Portfolio" />
-  </a>
+<a href="https://lacelmodev.github.io/portfolio/" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
+</a>
 </p>
